@@ -1,3 +1,4 @@
 # parcialesJava
 
-Modelos de parciales de Taller de Progranacuion JAVA ORT
+Modelos de parciales de Fundamentos de Programacion ORT
+Pseudocodigo en PSEINT
